@@ -3,4 +3,5 @@
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
   <project name="gerrittrigger.git" path="gerrittrigger" />
+  <project name="go-antpath.git" path="go-antpath" />
 </manifest>
