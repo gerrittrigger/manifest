@@ -2,6 +2,7 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
+  <project name="design.git" path="design" />
   <project name="eventslog.git" path="eventslog" />
   <project name="gerrittrigger.git" path="gerrittrigger" />
   <project name="go-antpath.git" path="go-antpath" revision="master" />
