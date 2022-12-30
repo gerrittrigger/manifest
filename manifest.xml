@@ -3,7 +3,7 @@
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
   <project name="design.git" path="design" />
-  <project name="eventslog.git" path="eventslog" />
-  <project name="gerrittrigger.git" path="gerrittrigger" />
+  <project name="events.git" path="events" />
+  <project name="trigger.git" path="trigger" />
   <project name="go-antpath.git" path="go-antpath" revision="master" />
 </manifest>
